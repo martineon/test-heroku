@@ -6,4 +6,4 @@ app.get('/',function(req,res){
 })
 
 app.listen(3001);
-console.log("la magie c ici:" + 3001)
+console.log("la magie c ici:" + 3001);
